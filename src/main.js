@@ -12,7 +12,20 @@
  * 
  */
 
-//used simples: 
+// var THREE = require('three');
+// var Detector = require('./Detector.js');
+
+import THREE from 'three';
+import './Detector.js';
+import './mobileCheck.js';
+import './MTLLoader.js';
+import './OBJLoader.js';
+import './OrbitControls.js';
+import './pace.min.js';
+import './simpleCentreBar.css';
+import './SimplexNoise.js';
+import './TDSLoader.js';
+import './water.js';
 
 /*---CHECKS---*/
 //webGL check
